@@ -6,6 +6,12 @@ body{
 font-family: 'Merriweather', serif;
 
 }
+
+@viewport{
+width:device-width;
+zoom:1.0;
+}
+
 .rainbow {
   position: absolute;
   top: -50%;
